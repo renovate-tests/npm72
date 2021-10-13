@@ -2,5 +2,5 @@
   "dependencies": {
     "chalk": "4.0.0"
   },
-  "renovate": "github>mizdra/renovate-config-mizdra",
+  "renovate": "github>mizdra/renovate-config-mizdra"
 }
